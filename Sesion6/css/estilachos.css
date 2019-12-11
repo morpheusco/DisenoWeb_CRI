@@ -1,0 +1,53 @@
+* {
+    margin:0;
+    padding:0;
+}
+header {
+    background: black;
+    color: #fefefe;
+}
+nav {
+    background: darkgray;
+    color: #fefefe;
+    text-align: center;
+    padding:20px;
+}
+main {
+    background: darkslateblue;
+    color: #fefefe;
+    padding:20px;
+}
+img {
+    border: 1px solid white;
+    float:right;
+}
+
+p {
+    background:#f0bf8d;
+    color:#fff;
+}
+footer {
+    background: darkred;
+    color: #fefefe;
+    padding:20px;
+}
+
+.cuadrada {
+    border: 2px solid white;
+    width:400px;
+}
+
+.efecto {
+    margin:30px;
+}
+
+.textoazul {
+    color: blue;
+}
+
+.fondoblanco {
+    background: white;;
+}
+
+
+
